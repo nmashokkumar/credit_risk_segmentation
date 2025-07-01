@@ -39,6 +39,7 @@ Used the **Taiwan Credit Card Default Dataset** with features:
 
 ## 🎨 Cluster Visualization
 
+![KMeans with PCA](https://github.com/user-attachments/assets/d70c7522-5ded-424b-bd56-aa22fa69e406)
 
 
 ### Color Legend:
